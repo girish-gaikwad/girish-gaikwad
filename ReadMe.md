@@ -68,6 +68,17 @@
 | 🛒 **QuickCommerce Scraper** | Automated data scraping system to extract product, pricing, and availability info from QuickCommerce for analytics and insights          |                                               ![GCP](https://skillicons.dev/icons?i=gcp) ![Python](https://skillicons.dev/icons?i=python) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)                                               |                         [📂 Code](https://github.com) (private)                          |
 | 🏭 **CNC Vault**             | Web platform to backup, restore, and manage CNC machine data securely, ensuring operational continuity and easy configuration management |                           ![GCP](https://skillicons.dev/icons?i=gcp) ![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Docker](https://skillicons.dev/icons?i=docker)                           | [🔗 Live](https://cnc-machines.vercel.app/) [📂 Code](https://github.com) (comming Soon) |
 
+## <img src="live links.gif" height="25" />
+
+
+<div align="center">
+
+| **DevRank**[🔗](http://dev-rank.vercel.app/) | **CNC Vault**[🔗](https://cnc-machines.vercel.app/) | **QuizGen**[🔗](https://guizgen.vercel.app/) | **GigShield AI**[🔗](https://dev-spirits.vercel.app/) | **EvaPro**[🔗](https://evapro-jet.vercel.app/) | **Recovery**[🔗](https://khacks-eta.vercel.app/) | **VanAdhikar**[🔗](https://van-adhikar.vercel.app/) |
+|:---|:---|:---|:---|:---|:---|:---|
+| **PitVision**[🔗](https://pit-vision.vercel.app/) | **StudySnap**[🔗](https://future-stack-gen-ai-hackathon.vercel.app/) | **MathCanvas**[🔗](https://math-canva.vercel.app/) | **Hero Generator**[🔗](https://futuristic-hero.vercel.app/) | **GovernAI**[🔗](https://govern-ai-inky.vercel.app/) | **Elastica**[🔗](https://elasticastore.in/) | **ParkingWeb**[🔗](https://parking-web-kappa.vercel.app/) |
+
+</div>
+
 ## <img src="github Stats.gif" height="25" />
 
 <div align="center">
@@ -87,17 +98,6 @@
 |                                                                                           **📈 Contribution Graph**                                                                                           |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://github-readme-activity-graph.vercel.app/graph?username=girish-gaikwad&theme=react-dark&hide_border=true&area=true&color=FF8C00&line=FF8C00&point=ffffff" alt="Activity Graph" width="800"/> |
-
-</div>
-
-## <img src="live links.gif" height="25" />
-
-
-<div align="center">
-
-| **DevRank**[🔗](http://dev-rank.vercel.app/) | **CNC Vault**[🔗](https://cnc-machines.vercel.app/) | **QuizGen**[🔗](https://guizgen.vercel.app/) | **GigShield AI**[🔗](https://dev-spirits.vercel.app/) | **EvaPro**[🔗](https://evapro-jet.vercel.app/) | **Recovery**[🔗](https://khacks-eta.vercel.app/) | **VanAdhikar**[🔗](https://van-adhikar.vercel.app/) |
-|:---|:---|:---|:---|:---|:---|:---|
-| **PitVision**[🔗](https://pit-vision.vercel.app/) | **StudySnap**[🔗](https://future-stack-gen-ai-hackathon.vercel.app/) | **MathCanvas**[🔗](https://math-canva.vercel.app/) | **Hero Generator**[🔗](https://futuristic-hero.vercel.app/) | **GovernAI**[🔗](https://govern-ai-inky.vercel.app/) | **Elastica**[🔗](https://elasticastore.in/) | **ParkingWeb**[🔗](https://parking-web-kappa.vercel.app/) |
 
 </div>
 
