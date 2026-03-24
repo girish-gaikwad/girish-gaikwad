@@ -26,6 +26,9 @@
   <a href="https://leetcode.com/u/Girish_Gaikwad/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="35" height="35" />
   </a>
+  <a href="https://www.youtube.com/@GirishGaikwad2055">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="35" height="35" style="filter: invert(17%) sepia(98%)    saturate(7475%)   hue-rotate(357deg) brightness(97%) contrast(119%);" />
+  </a>
 
 </div>
 
