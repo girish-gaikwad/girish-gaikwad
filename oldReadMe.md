@@ -1,4 +1,4 @@
-<img src="./github-header-banner.png" width="100%" />
+<img src="./car.svg" width="100%" />
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D26A&center=false&vCenter=true&width=400&lines=Feel+free+to+connect!+==>;Ping+me+to+collaborate!;Let's+build+something+amazing!;Open+to+new+opportunities!;Always+ready+to+discuss+tech!" width="250"/>
